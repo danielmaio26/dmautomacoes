@@ -3503,11 +3503,13 @@ input, select, textarea {
 				#banner .content header h2 {
 					font-size: 2.5em;
 					margin: 0;
+					color: #A8F4F8;
 				}
 
 				#banner .content header p {
 					margin: 0.5em 0 0 0;
 					top: 0;
+					color: #A8F4F8;
 				}
 
 			#banner .content .image {
