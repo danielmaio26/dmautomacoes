@@ -18,7 +18,7 @@ jobs:
           port: ${{ secrets.VPS_PORT || '22' }}
           script: |
             # Ajustá esta ruta al directorio donde tenés clonado el repo en tu VPS
-            cd /var/www/html/dmautomacoes
+            cd /var/www/dmautomacoes
             
             # Trae los últimos cambios
             git pull origin main
